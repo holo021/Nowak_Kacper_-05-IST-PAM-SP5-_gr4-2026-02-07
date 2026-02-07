@@ -33,20 +33,6 @@ Użyte biblioteki:
 * **Play Services Location** – do obsługi GPS.
 * **Navigation Compose** – do przechodzenia między ekranami.
 
-## Zrzuty ekranu
-
-Poniżej możesz zobaczyć, jak aplikacja wygląda w działaniu:
-
-| Ekran Startowy | Uprawnienia | Lista Zdjęć |
-|:---:|:---:|:---:|
-| <img src="screenshots/Screenshot_1.png" width="200"/> | <img src="screenshots/Screenshot_2.png" width="200"/> | <img src="screenshots/Screenshot_3.png" width="200"/> |
-
-| Szczegóły Zdjęcia | Widok Mapy |
-|:---:|:---:|
-| <img src="screenshots/Screenshot_5.png" width="200"/> | <img src="screenshots/Screenshot_4.png" width="200"/> |
-
-*(Aby obrazki się wyświetlały, pamiętaj o wrzuceniu plików png do folderu screenshots w projekcie)*
-
 ## Jak uruchomić projekt?
 
 Jeśli chcesz przetestować aplikację u siebie:
@@ -54,10 +40,8 @@ Jeśli chcesz przetestować aplikację u siebie:
 1.  Upewnij się, że masz zainstalowane **Android Studio** i Javę (JDK 17+).
 2.  Pobierz ten projekt (git clone lub zip) i otwórz w Android Studio.
 3.  Poczekaj chwilę, aż Gradle pobierze wszystkie zależności.
-4.  Podłącz telefon (zalecane, bo emulator ciężko symuluje aparat i GPS) lub uruchom emulator.
-5.  Kliknij "Run".
+4.  Kliknij "Run".
 
 Ważna uwaga: Przy pierwszym uruchomieniu aplikacja poprosi o dostępy (Kamera, Lokalizacja). Są one niezbędne do działania głównych funkcji.
 
----
-**Autor:** Monika Guziwelakis
+
